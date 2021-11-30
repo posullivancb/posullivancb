@@ -9,7 +9,7 @@
 
 ---------------------------
 
-- 👀 I’m interested in ...<br>Software development<br>Woodworking <br>Combining home automation and home improvements for more sustainable living<br><br>
+- 👀 I’m interested in ...<br>Salesforce.com development<br>Web development<br>Java Development<br>Python Development<br>Combining home automation and home improvements for more sustainable living<br><br>
 - 🌱 I’m currently learning ...<br>Salesforce Lightning Platform Enterprise Patterns by Andrew Fawcett<br><br>
 - 📫 How to reach me ...<br>
 [LinkedIn](https://linkedin.com/in/patrickjosullivan1)
